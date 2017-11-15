@@ -1,9 +1,9 @@
 # Dependencies
-markdown:         kramdown
-highlighter:      rouge
+markdown:         "kramdown"
+highlighter:      "rouge"
 
 # Setup
-title:            blogT
+title:            'blogT'
 tagline:          'A Jekyll theme'
 description:      'The <a href="https://wonsssik.github.io/" target="_blank">FunSIK's Blog</a>Develope IDEA'
 url:              https://wonsssik.github.io/
